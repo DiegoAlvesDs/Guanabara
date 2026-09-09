@@ -6,10 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Exerc%C3%ADcios-105%2F105-brightgreen?style=for-the-badge" alt="Progresso"/>
+  <a href="https://github.com/DiegoAlvesDs/Guanabara/actions/workflows/python-ci.yml">
+    <img src="https://github.com/DiegoAlvesDs/Guanabara/actions/workflows/python-ci.yml/badge.svg" alt="CI"/>
+  </a>
   <img src="https://img.shields.io/badge/Mundo%201-35%2F35-success?style=flat-square" alt="Mundo 1"/>
   <img src="https://img.shields.io/badge/Mundo%202-35%2F35-success?style=flat-square" alt="Mundo 2"/>
   <img src="https://img.shields.io/badge/Mundo%203-35%2F35-success?style=flat-square" alt="Mundo 3"/>
   <img src="https://img.shields.io/badge/Curso%20em%20V%C3%ADdeo-Python%203-red?style=flat-square" alt="Curso"/>
+  <img src="https://img.shields.io/badge/Licen%C3%A7a-MIT-blue?style=flat-square" alt="Licenca"/>
 </p>
 
 > 🎓 Exercícios do curso **[Python 3 do Mundo 1 ao 3](https://www.cursoemvideo.com/)** do professor **Gustavo Guanabara**, resolvidos por **[mim](https://github.com/DiegoAlvesDs)** — com soluções próprias, do meu jeito.
@@ -172,6 +176,25 @@ git clone https://github.com/DiegoAlvesDs/Guanabara.git
 ```
 
 Cada `desafioN.py` roda direto com `python desafioN.py` — só precisa do Python 3 instalado. Alguns usam recursos modernos (`match/case`, operador `:=`): recomendo **Python 3.10+**.
+
+---
+
+## 🐍 A cobra das contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoAlvesDs/Guanabara/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/DiegoAlvesDs/Guanabara/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuicoes"/>
+  </picture>
+</p>
+
+<p align="center"><i>Assim como no meu jogo <b><a href="https://github.com/DiegoAlvesDs/Python_Snake">Python Snake</a></i> 🎮</i></p>
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT](LICENSE) — pode estudar, usar e compartilhar à vontade.
 
 ---
 
